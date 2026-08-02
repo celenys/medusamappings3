@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<timecycle_modifier_data version="1.000000">
+    <modifier name="PoliceStation_hwpd" numMods="32" userFlags="0">
+        <light_directional_amb_col_r>1.000 1.000</light_directional_amb_col_r>
+        <light_directional_amb_col_g>1.000 1.000</light_directional_amb_col_g>
+        <light_directional_amb_col_b>1.000 1.000</light_directional_amb_col_b>
+        <light_amb_down_wrap>-0.150 0.000</light_amb_down_wrap>
+        <light_natural_push>0.420 0.000</light_natural_push>
+        <light_artificial_int_down_col_r>0.794 1.000</light_artificial_int_down_col_r>
+        <light_artificial_int_down_col_g>0.943 1.000</light_artificial_int_down_col_g>
+        <light_artificial_int_down_col_b>0.944 1.000</light_artificial_int_down_col_b>
+        <light_artificial_int_down_intensity>0.420 0.000</light_artificial_int_down_intensity>
+        <light_artificial_int_up_col_r>0.789 1.000</light_artificial_int_up_col_r>
+        <light_artificial_int_up_col_g>0.859 1.000</light_artificial_int_up_col_g>
+        <light_artificial_int_up_col_b>0.967 1.000</light_artificial_int_up_col_b>
+        <light_artificial_int_up_intensity>0.360 0.000</light_artificial_int_up_intensity>
+        <light_amb_occ_mult>1.250 0.000</light_amb_occ_mult>
+        <ssao_inten>3.600 0.000</ssao_inten>
+        <ssao_type>0.860 0.000</ssao_type>
+        <postfx_exposure>-0.220 -0.320</postfx_exposure>
+        <postfx_bright_pass_thresh_width>0.120 0.000</postfx_bright_pass_thresh_width>
+        <postfx_bright_pass_thresh>0.520 0.000</postfx_bright_pass_thresh>
+        <postfx_intensity_bloom>1.614 0.000</postfx_intensity_bloom>
+        <postfx_desaturation>1.030 0.000</postfx_desaturation>
+        <postfx_tonemap_filmic_a>0.627 0.000</postfx_tonemap_filmic_a>
+        <fog_start>73.000 73.000</fog_start>
+        <reflection_lod_range_start>0.000 0.000</reflection_lod_range_start>
+        <reflection_lod_range_end>5.000 0.000</reflection_lod_range_end>
+        <reflection_slod_range_start>5.000 0.000</reflection_slod_range_start>
+        <reflection_slod_range_end>50.000 0.000</reflection_slod_range_end>
+        <reflection_tweak_interior_amb>2.400 0.000</reflection_tweak_interior_amb>
+        <far_clip>0.000 180.000</far_clip>
+        <temperature>20.000 0.000</temperature>
+        <natural_ambient_multiplier>0.000 0.000</natural_ambient_multiplier>
+        <artificial_int_ambient_multiplier>0.660 0.000</artificial_int_ambient_multiplier>
+    </modifier>
+</timecycle_modifier_data>

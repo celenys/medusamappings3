@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CMapParentTxds>
+  <txdRelationships>
+      <Item>
+      <parent>cs4_10_land</parent>
+      <child>i45pt_hornys_b_s_ext</child>
+    </Item>
+      <Item>
+      <parent>i45pt_hornys_b_s_ext</parent>
+      <child>id2_21_c_build</child>
+    </Item>
+      <Item>
+      <parent>i45pt_hornys_b_s_ext</parent>
+      <child>globalroads</child>
+    </Item>
+      <Item>
+      <parent>i45pt_hornys_b_s_ext</parent>
+      <child>sc1_11_grnd</child>
+    </Item>
+      <Item>
+      <parent>sc1_19_detail</parent>
+      <child>sc1_11_grnd</child>
+    </Item>
+      <Item>
+      <parent>globalroads</parent>
+      <child>sc1_11_grnd</child>
+    </Item>
+      <Item>
+      <parent>citywbh1proplods</parent>
+      <child>proplods</child>
+    </Item>
+    <Item>
+      <parent>cs1_06_ground</parent>
+      <child>cs1_06_alpha</child>
+    </Item>
+      <Item>
+      <parent>cs1_roads_pb</parent>
+      <child>cs1_06_build5</child>
+    </Item>
+  </txdRelationships>
+</CMapParentTxds>
