@@ -1,4 +1,3 @@
--- WEXİRA DİYORUM LA
 fx_version 'cerulean'
 games {'gta5'}
 
@@ -20,5 +19,8 @@ files {
 
 }
 
+dependency '/assetpacks'
 
 
+
+dependency '/assetpacks'
